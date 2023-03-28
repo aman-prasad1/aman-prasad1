@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AmanPrasad88
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python and DSA in C++
-- 
--
 
 
 <!---
