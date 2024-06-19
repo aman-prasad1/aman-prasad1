@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AmanPrasad88
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python and DSA in C++
+__About Me_
 
+Experienced in C++ with a focus on Data Structures and Algorithms (DSA), I'm currently immersed in mastering the MERN (MongoDB, Express.js, React.js, Node.js) stack. Combining my passion for problem-solving with a dedication to continuous learning, I'm eager to contribute to innovative projects and drive impactful solutions in the tech industry.
 
 <!---
 AmanPrasad88/AmanPrasad88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
