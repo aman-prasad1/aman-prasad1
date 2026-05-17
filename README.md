@@ -52,7 +52,7 @@ the kind that makes you see `O(n²)` before you write it, not after.
 
 ```
 Platform   LeetCode              
-Solved     1048 problems         
+Solved     1000+ problems         
 Rating     1681  ▲  (peak)       
 Global     Top 14.97%            
 Streak     500-day badge  ✦      
